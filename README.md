@@ -1,4 +1,5 @@
 # Louis Giët
+Ik ben een Junior Full Stack Web Developer
 
 ## Mijn Skills
  - JavaScript
